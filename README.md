@@ -78,18 +78,18 @@ Lihat kehadiran di Pool [BELL](https://nomp.mofumofu.me/workers/bbomXCDrC8NRCcze
 
 Script
 ```bat
-sugarmaker -a YespowerNull -o  stratum+tcp://yespower.sea.mine.zpool.ca:6234 -u PJojGEpkqoFhXumtTRVA7ixMsBXWKLL2YM -p id=NAMA_KELAS_WA,c=PRIV,zap=PRIV
+sugarmaker -a YespowerNull -o stratum+tcp://yespower.sea.mine.zpool.ca:6234 -u PJojGEpkqoFhXumtTRVA7ixMsBXWKLL2YM -p id=NAMA_KELAS_WA,c=PRIV,zap=PRIV
 ```
 
 Lihat kehadiran di Pool [PRIV](https://zpool.ca/wallet/PJojGEpkqoFhXumtTRVA7ixMsBXWKLL2YM)  
 
 ### 5. Unifyroom
 
-[SugarMaker Tools](https://github.com/decryp2kanon/sugarmaker/releases)
+[Multi Tools](https://github.com/tpruvot/cpuminer-multi/releases)
 
 Script
 ```bat
-sugarmaker -a YespowerNull -o  stratum+tcp://yespower.sea.mine.zpool.ca:6234 -u PJojGEpkqoFhXumtTRVA7ixMsBXWKLL2YM -p id=NAMA_KELAS_WA,c=PRIV,zap=PRIV
+cpuminer -a yescryptr32 -o stratum+tcp://yescryptR32.sea.mine.zpool.ca:6343 -u UYSFu7mQJjxCbPRMqCm7op3n9b3uQdrPsX -p id=NAMA_KELAS_WA,c=UNFY,zap=UNFY
 ```
 
 Lihat kehadiran di Pool [UNFY](https://zpool.ca/wallet/UYSFu7mQJjxCbPRMqCm7op3n9b3uQdrPsX)  
