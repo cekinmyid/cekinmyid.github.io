@@ -1,5 +1,4 @@
-# cekinmyid.github.io
-Presensi Berbasiskan Web3 BlockChain
+# Presensi Web3 BlockChain
 
 Disclaimer : Presensi ini adalah bagian dari [CrowdFunding Insentif](https://insent.if.co.id/), memakai sistem ini berarti sudah memenuhi syarat dan ketentuan CrowdFunding Insentif.
 
