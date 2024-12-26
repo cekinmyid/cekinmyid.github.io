@@ -28,7 +28,7 @@ cpuminer-avx disesuaikan lagi dengan arsitektur CPU masing-masing
 Lihat kehadiran di [KCN](https://mpool.live/coin/KCN)  
 Register Wallet `kc1q5ed6nnk2jvxdltefwq8tjlvne85tnp506ugj7z`
 
-Lihat kehadiran di [LCN](https://mpool.live/coin/LCN)
+Lihat kehadiran di [LCN](https://mpool.live/coin/LCN)  
 Register Wallet `lc1q8wcgexr6gzhxu3pmkecxtyj2htd5jaxmu3mpx3`
 
 ### Microbitcoin
