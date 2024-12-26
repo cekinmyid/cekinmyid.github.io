@@ -16,7 +16,7 @@ Pilihan coin dan pool untuk presensi
 
 ### 1. Kylacoin dan Lyncoin
 
-[Tools](https://github.com/f1exlabs/cpuminer/releases)
+[FlexLabs Tools](https://github.com/f1exlabs/cpuminer/releases)
 
 Script
 ```sh
@@ -41,7 +41,7 @@ Register Wallet `lc1q8wcgexr6gzhxu3pmkecxtyj2htd5jaxmu3mpx3`
 
 ### 2. Microbitcoin
 
-[Tools](https://github.com/decryp2kanon/sugarmaker/releases)
+[SugarMaker Tools](https://github.com/decryp2kanon/sugarmaker/releases)
 
 Script
 ```bat
