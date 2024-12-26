@@ -50,3 +50,24 @@ sugarmaker -a YespowerMbc -o stratum+tcp://power2b.sea.mine.zpool.ca:6242 -u mbc
 
 Lihat kehadiran di Pool [MBC](https://zpool.ca/wallet/mbc1qye84fl6cwuexy0nkje7yvmkp379gntuu8u33te)  
 
+### 3. SugarChain
+
+[SugarMaker Tools](https://github.com/decryp2kanon/sugarmaker/releases)
+
+Script
+```bat
+sugarmaker -a YespowerSugar -o stratum+tcp://nomp.mofumofu.me:3391 -u sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt.NAMA_KELAS_WA
+```
+
+Lihat kehadiran di Pool [SUGAR](https://nomp.mofumofu.me/workers/sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt)  
+
+### 3. Bellcoin
+
+[SugarMaker Tools](https://github.com/decryp2kanon/sugarmaker/releases)
+
+Script
+```bat
+sugarmaker -a YespowerNull -o stratum+tcp://nomp.mofumofu.me:3351 -u bbomXCDrC8NRCczeF7JNQLrHtbWmtTU1V6.NAMA_KELAS_WA
+```
+
+Lihat kehadiran di Pool [BELL](https://nomp.mofumofu.me/workers/bbomXCDrC8NRCczeF7JNQLrHtbWmtTU1V6)  
