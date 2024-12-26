@@ -83,7 +83,7 @@ sugarmaker -a YespowerNull -o stratum+tcp://yespower.sea.mine.zpool.ca:6234 -u P
 
 Lihat kehadiran di Pool [PRIV](https://zpool.ca/wallet/PJojGEpkqoFhXumtTRVA7ixMsBXWKLL2YM)  
 
-### 5. Unifyroom
+### 5. UnifyRoom
 
 [Multi Tools](https://github.com/tpruvot/cpuminer-multi/releases)
 
