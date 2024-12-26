@@ -1,6 +1,6 @@
 # Presensi Web3 BlockChain
 
-Disclaimer : Presensi ini adalah bagian dari [CrowdFunding Insentif](https://insent.if.co.id/), memakai sistem ini berarti sudah memenuhi syarat dan ketentuan CrowdFunding Insentif.
+Disclaimer : Presensi ini adalah bagian dari [CrowdFunding Insentif](https://insent.if.co.id/), memakai sistem ini berarti sudah memahami syarat dan ketentuan CrowdFunding Insentif.
 
 Untuk menjalankan presensi maka tata cara yang dilakukan:
 1. Tentukan dahulu coin dan pool yang akan dipakai untuk presensi
