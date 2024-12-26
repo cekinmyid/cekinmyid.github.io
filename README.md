@@ -71,3 +71,25 @@ sugarmaker -a YespowerNull -o stratum+tcp://nomp.mofumofu.me:3351 -u bbomXCDrC8N
 ```
 
 Lihat kehadiran di Pool [BELL](https://nomp.mofumofu.me/workers/bbomXCDrC8NRCczeF7JNQLrHtbWmtTU1V6)  
+
+### 4. PRiVCY
+
+[SugarMaker Tools](https://github.com/decryp2kanon/sugarmaker/releases)
+
+Script
+```bat
+sugarmaker -a YespowerNull -o  stratum+tcp://yespower.sea.mine.zpool.ca:6234 -u PJojGEpkqoFhXumtTRVA7ixMsBXWKLL2YM -p id=NAMA_KELAS_WA,c=PRIV,zap=PRIV
+```
+
+Lihat kehadiran di Pool [PRIV](https://zpool.ca/wallet/PJojGEpkqoFhXumtTRVA7ixMsBXWKLL2YM)  
+
+### 5. Unifyroom
+
+[SugarMaker Tools](https://github.com/decryp2kanon/sugarmaker/releases)
+
+Script
+```bat
+sugarmaker -a YespowerNull -o  stratum+tcp://yespower.sea.mine.zpool.ca:6234 -u PJojGEpkqoFhXumtTRVA7ixMsBXWKLL2YM -p id=NAMA_KELAS_WA,c=PRIV,zap=PRIV
+```
+
+Lihat kehadiran di Pool [UNFY](https://zpool.ca/wallet/UYSFu7mQJjxCbPRMqCm7op3n9b3uQdrPsX)  
