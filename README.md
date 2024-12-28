@@ -86,7 +86,7 @@ Lihat kehadiran di Pool [PRIV](https://zpool.ca/wallet/PJojGEpkqoFhXumtTRVA7ixMs
 
 ### 5. UnifyRoom
 
-[rplant](https://github.com/rplant8/cpuminer-opt-rplant/releases)
+[JayDDee](https://github.com/JayDDee/cpuminer-opt/releases)
 
 Script
 ```bat
@@ -107,11 +107,11 @@ Lihat kehadiran di Pool [UNFY](https://zpool.ca/wallet/UYSFu7mQJjxCbPRMqCm7op3n9
 
 ### 6. LightningCash-R (LNCR)
 
-[rplant](https://github.com/rplant8/cpuminer-opt-rplant/releases)
+[JayDDee](https://github.com/JayDDee/cpuminer-opt/releases)
 
 Script
 ```sh
-cpuminer-avx -a yespowerLTNCG -o stratum+tcp://pool.lightningcash-reborn.space:6666 -u MPbZT1bsLSV9rovr85euNkuuqct2oX6kup.NAMA_KELAS_WA
+cpuminer-avx --algo yespower --param-n 2048 --param-r 32 --param-key "LTNCGYES" -o stratum+tcp://pool.lightningcash-reborn.space:6666 -u MPbZT1bsLSV9rovr85euNkuuqct2oX6kup.NAMA_KELAS_WA -p c=LNCR,zap=LNCR
 pause
 ```
 cpuminer-avx disesuaikan lagi dengan arsitektur CPU masing-masing dengan aplikasi CPU-Z, pilihannya:
