@@ -94,3 +94,30 @@ cpuminer -a yescryptr32 -o stratum+tcp://yescryptR32.sea.mine.zpool.ca:6343 -u U
 ```
 
 Lihat kehadiran di Pool [UNFY](https://zpool.ca/wallet/UYSFu7mQJjxCbPRMqCm7op3n9b3uQdrPsX)  
+
+### 6. LightningCash-R (LNCR)
+
+[Multi Tools](https://github.com/tpruvot/cpuminer-multi/releases)
+
+Script
+```sh
+cpuminer-avx --a yespowerLTNCG -o stratum+tcp://pool.lightningcash-reborn.space:6666 -u MPbZT1bsLSV9rovr85euNkuuqct2oX6kup.NAMA_KELAS_WA
+pause
+```
+cpuminer-avx disesuaikan lagi dengan arsitektur CPU masing-masing dengan aplikasi CPU-Z, pilihannya:
+* cpuminer-aes-sse42
+* cpuminer-avx
+* cpuminer-avx2-aes-sha
+* cpuminer-avx2-aes
+* cpuminer-avx2-sha-vaes
+* cpuminer-avx512-sha-vaes
+* cpuminer-avx512
+* cpuminer-sse2
+
+Lihat kehadiran di Pool [KCN](https://mpool.live/coin/KCN)  
+Register Wallet `kc1q5ed6nnk2jvxdltefwq8tjlvne85tnp506ugj7z`
+
+Lihat kehadiran di Pool [LCN](https://mpool.live/coin/LCN)  
+Register Wallet `lc1q8wcgexr6gzhxu3pmkecxtyj2htd5jaxmu3mpx3`
+
+cpuminer-avx.exe -a yespowerLTNCG -o stratum+tcp://pool.lightningcash-reborn.space:6666 -u lncr1qe0jslkkahzfx6hknufw3srpays50guvyqzsqsd -p 
