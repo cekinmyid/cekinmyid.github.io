@@ -97,7 +97,7 @@ Lihat kehadiran di Pool [UNFY](https://zpool.ca/wallet/UYSFu7mQJjxCbPRMqCm7op3n9
 
 ### 6. LightningCash-R (LNCR)
 
-[Multi Tools](https://github.com/tpruvot/cpuminer-multi/releases)
+[rplant](https://github.com/rplant8/cpuminer-opt-rplant/releases)
 
 Script
 ```sh
@@ -114,10 +114,4 @@ cpuminer-avx disesuaikan lagi dengan arsitektur CPU masing-masing dengan aplikas
 * cpuminer-avx512
 * cpuminer-sse2
 
-Lihat kehadiran di Pool [KCN](https://mpool.live/coin/KCN)  
-Register Wallet `kc1q5ed6nnk2jvxdltefwq8tjlvne85tnp506ugj7z`
-
-Lihat kehadiran di Pool [LCN](https://mpool.live/coin/LCN)  
-Register Wallet `lc1q8wcgexr6gzhxu3pmkecxtyj2htd5jaxmu3mpx3`
-
-cpuminer-avx.exe -a yespowerLTNCG -o stratum+tcp://pool.lightningcash-reborn.space:6666 -u lncr1qe0jslkkahzfx6hknufw3srpays50guvyqzsqsd -p 
+Lihat kehadiran di Pool [LNCR](https://pool.lightningcash-reborn.space/workers/MPbZT1bsLSV9rovr85euNkuuqct2oX6kup)  
