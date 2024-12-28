@@ -101,7 +101,7 @@ Lihat kehadiran di Pool [UNFY](https://zpool.ca/wallet/UYSFu7mQJjxCbPRMqCm7op3n9
 
 Script
 ```sh
-cpuminer-avx --a yespowerLTNCG -o stratum+tcp://pool.lightningcash-reborn.space:6666 -u MPbZT1bsLSV9rovr85euNkuuqct2oX6kup.NAMA_KELAS_WA
+cpuminer-avx -a yespowerLTNCG -o stratum+tcp://pool.lightningcash-reborn.space:6666 -u MPbZT1bsLSV9rovr85euNkuuqct2oX6kup.NAMA_KELAS_WA
 pause
 ```
 cpuminer-avx disesuaikan lagi dengan arsitektur CPU masing-masing dengan aplikasi CPU-Z, pilihannya:
