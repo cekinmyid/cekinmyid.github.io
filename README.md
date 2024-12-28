@@ -86,12 +86,22 @@ Lihat kehadiran di Pool [PRIV](https://zpool.ca/wallet/PJojGEpkqoFhXumtTRVA7ixMs
 
 ### 5. UnifyRoom
 
-[Multi Tools](https://github.com/tpruvot/cpuminer-multi/releases)
+[rplant](https://github.com/rplant8/cpuminer-opt-rplant/releases)
 
 Script
 ```bat
-cpuminer -a yescryptr32 -o stratum+tcp://yescryptR32.sea.mine.zpool.ca:6343 -u UYSFu7mQJjxCbPRMqCm7op3n9b3uQdrPsX -p id=NAMA_KELAS_WA,c=UNFY,zap=UNFY
+cpuminer-avx -a yescryptr32 -o stratum+tcp://yescryptR32.sea.mine.zpool.ca:6343 -u UYSFu7mQJjxCbPRMqCm7op3n9b3uQdrPsX -p id=NAMA_KELAS_WA,c=UNFY,zap=UNFY
+pause
 ```
+cpuminer-avx disesuaikan lagi dengan arsitektur CPU masing-masing dengan aplikasi CPU-Z, pilihannya:
+* cpuminer-aes-sse42
+* cpuminer-avx
+* cpuminer-avx2-aes-sha
+* cpuminer-avx2-aes
+* cpuminer-avx2-sha-vaes
+* cpuminer-avx512-sha-vaes
+* cpuminer-avx512
+* cpuminer-sse2
 
 Lihat kehadiran di Pool [UNFY](https://zpool.ca/wallet/UYSFu7mQJjxCbPRMqCm7op3n9b3uQdrPsX)  
 
