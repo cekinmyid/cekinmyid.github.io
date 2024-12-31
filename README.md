@@ -111,7 +111,7 @@ Lihat kehadiran di Pool [UNFY](https://zpool.ca/wallet/UYSFu7mQJjxCbPRMqCm7op3n9
 
 Script
 ```sh
-cpuminer-avx --algo yespower --param-n 2048 --param-r 32 --param-key "LTNCGYES" -o stratum+tcp://pool.lightningcash-reborn.space:6666 -u MPbZT1bsLSV9rovr85euNkuuqct2oX6kup.NAMA_KELAS_WA -p c=LNCR,zap=LNCR
+cpuminer-avx --algo yespower --param-n 2048 --param-r 32 --param-key "LTNCGYES" -o stratum+tcp://pool.lightningcash-reborn.space:6666 -u MPbZT1bsLSV9rovr85euNkuuqct2oX6kup.NAMA_KELAS_WA
 pause
 ```
 cpuminer-avx disesuaikan lagi dengan arsitektur CPU masing-masing dengan aplikasi CPU-Z, pilihannya:
@@ -123,5 +123,9 @@ cpuminer-avx disesuaikan lagi dengan arsitektur CPU masing-masing dengan aplikas
 * cpuminer-avx512-sha-vaes
 * cpuminer-avx512
 * cpuminer-sse2
+
+```sh
+./cpuminer --algo yespower --param-n 2048 --param-r 32 --param-key "LTNCGYES" -o stratum+tcp://pool.lightningcash-reborn.space:6666 -u MPbZT1bsLSV9rovr85euNkuuqct2oX6kup.NAMA_KELAS_WA
+```
 
 Lihat kehadiran di Pool [LNCR](https://pool.lightningcash-reborn.space/workers/MPbZT1bsLSV9rovr85euNkuuqct2oX6kup)  
