@@ -134,3 +134,33 @@ Script Termux : running
 ```
 
 Lihat kehadiran di Pool [LNCR](https://pool.lightningcash-reborn.space/workers/MPbZT1bsLSV9rovr85euNkuuqct2oX6kup)  
+
+### 6. Koto
+
+[JayDDee](https://github.com/JayDDee/cpuminer-opt/releases)
+
+Script Desktop
+```sh
+cpuminer-avx -a yescryptr8g -o stratum+tcp://koto.mofumofu.me:3301 -u k1CVdMhrFweDHLURthi8iTU6cf4TbyRqZmt.NAMA_KELAS_WA
+pause
+```
+cpuminer-avx disesuaikan lagi dengan arsitektur CPU masing-masing dengan aplikasi CPU-Z, pilihannya:
+* cpuminer-aes-sse42
+* cpuminer-avx
+* cpuminer-avx2-aes-sha
+* cpuminer-avx2-aes
+* cpuminer-avx2-sha-vaes
+* cpuminer-avx512-sha-vaes
+* cpuminer-avx512
+* cpuminer-sse2
+
+Script Termux : download
+```sh
+curl -O https://cek.in.my.id/cpuminer
+```
+Script Termux : running
+```sh
+./cpuminer -a yescryptr8g -o stratum+tcp://koto.mofumofu.me:3301 -u k1CVdMhrFweDHLURthi8iTU6cf4TbyRqZmt.NAMA_KELAS_WA
+```
+
+Lihat kehadiran di Pool [KOTO](https://koto.mofumofu.me/workers/k1CVdMhrFweDHLURthi8iTU6cf4TbyRqZmt)  
