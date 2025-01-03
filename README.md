@@ -13,8 +13,10 @@ Untuk menjalankan presensi maka tata cara yang dilakukan:
 6. Untuk melihat kehadiran bisa dilihat di pool masing masing coin yang disepakati
 
 ## Coin dan Pool
-Pilihan coin dan pool untuk presensi
 RVN : RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j
+
+Pilihan coin dan pool untuk presensi: 
+
 ### 1. Kylacoin dan Lyncoin
 
 [FlexLabs Tools](https://github.com/f1exlabs/cpuminer/releases)
