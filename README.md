@@ -135,7 +135,51 @@ Script Termux : running
 
 Lihat kehadiran di Pool [LNCR](https://pool.lightningcash-reborn.space/workers/MPbZT1bsLSV9rovr85euNkuuqct2oX6kup)  
 
-### 6. Koto
+### 7. Documentchain (DMS)
+
+Silahkan klaim dulu alamat kakak masing masing di team informatika : https://t.if.co.id/wallets/dms/
+
+Kemudian cekin bisa dilakukan melalui PC/Laptop/Android. Contoh jika alamat kakak yang di klaim :  `DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT`
+
+#### Script Running di PC/Laptop Desktop
+
+Tools: [JayDDee](https://github.com/JayDDee/cpuminer-opt/releases)
+
+```sh
+cpuminer-avx -a yescryptr32 -o stratum+tcp://yescryptR32.sea.mine.zpool.ca:6343 -u DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT -p c=DMS,zap=DMS
+pause
+```
+cpuminer-avx disesuaikan lagi dengan arsitektur CPU masing-masing dengan aplikasi CPU-Z, pilihannya:
+* cpuminer-aes-sse42
+* cpuminer-avx
+* cpuminer-avx2-aes-sha
+* cpuminer-avx2-aes
+* cpuminer-avx2-sha-vaes
+* cpuminer-avx512-sha-vaes
+* cpuminer-avx512
+* cpuminer-sse2
+
+#### Script Running di Android
+
+Pakai Termux
+
+Script Termux : download dan compile
+```sh
+curl -O https://cek.in.my.id/cpuminer
+```
+Script Termux : running cekin insentif
+```sh
+./cpuminer-avx -a yescryptr32 -o stratum+tcp://yescryptR32.sea.mine.zpool.ca:6343 -u DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT -p c=DMS,zap=DMS
+```
+#### Cek dan Monitoring proses cekin insentif DMS 
+
+Akses proses cekin insentif dms : https://zpool.ca/wallet/DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT
+
+Untuk lihat paid saldo di : 
+- https://documentchain.org/explorer/?search=DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT
+- https://explorer.dms.cash/?search=DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT&net=mainnet
+
+### 8. Koto
 
 [JayDDee](https://github.com/JayDDee/cpuminer-opt/releases)
 
