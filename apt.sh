@@ -1,5 +1,5 @@
 sudo apt update
-sudo apt install git build-essential automake autoconf libcurl4-openssl-dev libssl-dev zlib1g-dev libjansson-dev libgmp-dev
+sudo apt install git build-essential automake autoconf libtool libcurl4-openssl-dev libssl-dev zlib1g-dev libjansson-dev libgmp-dev
 git clone --depth 1 https://github.com/JayDDee/cpuminer-opt.git
 cd cpuminer-opt
 ./build.sh
