@@ -124,13 +124,13 @@ cpuminer-avx disesuaikan lagi dengan arsitektur CPU masing-masing dengan aplikas
 * cpuminer-avx512
 * cpuminer-sse2
 
-Script Termux : download
+Perintah Termux : download
 ```sh
 curl -O https://cek.in.my.id/pkg.sh
 chmod a+x pkg.sh
 ./pkg.sh
 ```
-Script Termux : running
+Perintah Termux : running cekin insentif
 ```sh
 ./cpuminer --algo yespower --param-n 2048 --param-r 32 --param-key "LTNCGYES" -o stratum+tcp://pool.lightningcash-reborn.space:6666 -u MPbZT1bsLSV9rovr85euNkuuqct2oX6kup.NAMA_KELAS_WA
 ```
