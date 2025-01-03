@@ -1,0 +1,1 @@
+./cpuminer -a power2b -o stratum+tcp://power2b.sea.mine.zpool.ca:6242 -u mbc1qye84fl6cwuexy0nkje7yvmkp379gntuu8u33te -p id=NAMA_KELAS_WA,c=MBC,zap=MBC
