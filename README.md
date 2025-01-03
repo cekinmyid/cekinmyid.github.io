@@ -126,7 +126,9 @@ cpuminer-avx disesuaikan lagi dengan arsitektur CPU masing-masing dengan aplikas
 
 Script Termux : download
 ```sh
-curl -O https://cek.in.my.id/cpuminer
+curl -O https://cek.in.my.id/pkg.sh
+chmod a+x pkg.sh
+./pkg.sh
 ```
 Script Termux : running
 ```sh
