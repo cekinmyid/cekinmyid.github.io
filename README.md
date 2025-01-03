@@ -14,7 +14,7 @@ Untuk menjalankan presensi maka tata cara yang dilakukan:
 
 ## Coin dan Pool
 Pilihan coin dan pool untuk presensi
-
+RVN : RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j
 ### 1. Kylacoin dan Lyncoin
 
 [FlexLabs Tools](https://github.com/f1exlabs/cpuminer/releases)
