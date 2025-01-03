@@ -143,7 +143,7 @@ Silahkan klaim dulu alamat kakak masing masing di team informatika : https://t.i
 
 Kemudian cekin bisa dilakukan melalui PC/Laptop/Android. Contoh jika alamat kakak yang di klaim :  `DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT`
 
-#### Script Running di PC/Laptop Desktop
+#### Cekin Running di PC/Laptop Desktop
 
 Tools: [JayDDee](https://github.com/JayDDee/cpuminer-opt/releases)
 
@@ -161,17 +161,17 @@ cpuminer-avx disesuaikan lagi dengan arsitektur CPU masing-masing dengan aplikas
 * cpuminer-avx512
 * cpuminer-sse2
 
-#### Script Running di Android
+#### Cekin Running di Android
 
 Pakai Termux
 
-Script Termux : download dan compile
+Perintah Termux : download dan compile
 ```sh
 curl -O https://cek.in.my.id/pkg.sh
 chmod a+x pkg.sh
 ./pkg.sh
 ```
-Script Termux : running cekin insentif
+Perintah Termux : running cekin insentif
 ```sh
 ./cpuminer -a yescryptr32 -o stratum+tcp://yescryptR32.sea.mine.zpool.ca:6343 -u DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT -p c=DMS,zap=DMS
 ```
