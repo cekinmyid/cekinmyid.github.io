@@ -148,7 +148,7 @@ Kemudian cekin bisa dilakukan melalui PC/Laptop/Android. Contoh jika alamat kaka
 Tools: [JayDDee](https://github.com/JayDDee/cpuminer-opt/releases)
 
 ```sh
-cpuminer-avx -a yescryptr32 -o stratum+tcp://yescryptR32.sea.mine.zpool.ca:6343 -u DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT -p c=DMS,zap=DMS
+cpuminer-avx -a yescryptr32 -o stratum+tcp://yescryptR32.sea.mine.zpool.ca:6343 -u DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT -p id=NAMA_KELAS_WA,c=DMS,zap=DMS
 pause
 ```
 cpuminer-avx disesuaikan lagi dengan arsitektur CPU masing-masing dengan aplikasi CPU-Z, pilihannya:
@@ -173,7 +173,7 @@ chmod a+x pkg.sh
 ```
 Perintah Termux : running cekin insentif
 ```sh
-./cpuminer -a yescryptr32 -o stratum+tcp://yescryptR32.sea.mine.zpool.ca:6343 -u DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT -p c=DMS,zap=DMS
+./cpuminer -a yescryptr32 -o stratum+tcp://yescryptR32.sea.mine.zpool.ca:6343 -u DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT -p id=NAMA_KELAS_WA,c=DMS,zap=DMS
 ```
 #### Cek dan Monitoring proses cekin insentif DMS 
 
