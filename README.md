@@ -62,7 +62,7 @@ Script
 sugarmaker -a YespowerSugar -o stratum+tcp://cugeoyom.tech:3333 -u sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt.NAMA_KELAS_WA
 ```
 
-Lihat kehadiran di Pool [SUGAR](https://nomp.mofumofu.me/workers/sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt)  
+Lihat kehadiran di Pool [SUGAR](http://cugeoyom.tech:8080/workers/sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt)  
 
 ### 3. Bellcoin
 
