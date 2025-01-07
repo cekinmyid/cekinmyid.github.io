@@ -243,4 +243,4 @@ Script Termux : running
 ./cpuminer -a yespowerr16 -o stratum+tcp://yescryptR16.asia.mine.zergpool.com:6333 -u YXfQDuKJ4ga1bcs51f13auYhitKd67CZg2 -p c=YTN,mc=YTN,ID=NAMA_KELAS_WA
 ```
 
-Lihat kehadiran di Pool [KOTO](https://zergpool.com/wallet/YXfQDuKJ4ga1bcs51f13auYhitKd67CZg2)  
+Lihat kehadiran di Pool [YTN](https://zergpool.com/wallet/YXfQDuKJ4ga1bcs51f13auYhitKd67CZg2)  
