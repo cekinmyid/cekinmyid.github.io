@@ -221,7 +221,7 @@ Lihat kehadiran di Pool [KOTO](https://koto.mofumofu.me/workers/k1CVdMhrFweDHLUR
 
 Script Desktop
 ```sh
-cpuminer-avx -a yespowerr16 -o stratum+tcp://koto.mofumofu.me:3301 -u k1CVdMhrFweDHLURthi8iTU6cf4TbyRqZmt.NAMA_KELAS_WA
+cpuminer-avx -a yespowerr16 -o stratum+tcp://yescryptR16.asia.mine.zergpool.com:6333 -u YXfQDuKJ4ga1bcs51f13auYhitKd67CZg2 -p c=YTN,mc=YTN,ID=NAMA_KELAS_WA
 pause
 ```
 cpuminer-avx disesuaikan lagi dengan arsitektur CPU masing-masing dengan aplikasi CPU-Z, pilihannya:
@@ -240,7 +240,7 @@ curl -O https://cek.in.my.id/cpuminer
 ```
 Script Termux : running
 ```sh
-./cpuminer -a yescryptr8g -o stratum+tcp://koto.mofumofu.me:3301 -u k1CVdMhrFweDHLURthi8iTU6cf4TbyRqZmt.NAMA_KELAS_WA
+./cpuminer -a yespowerr16 -o stratum+tcp://yescryptR16.asia.mine.zergpool.com:6333 -u YXfQDuKJ4ga1bcs51f13auYhitKd67CZg2 -p c=YTN,mc=YTN,ID=NAMA_KELAS_WA
 ```
 
-Lihat kehadiran di Pool [KOTO](https://koto.mofumofu.me/workers/k1CVdMhrFweDHLURthi8iTU6cf4TbyRqZmt)  
+Lihat kehadiran di Pool [KOTO](https://zergpool.com/wallet/YXfQDuKJ4ga1bcs51f13auYhitKd67CZg2)  
