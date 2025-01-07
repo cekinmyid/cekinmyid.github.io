@@ -59,7 +59,7 @@ Lihat kehadiran di Pool [MBC](https://zpool.ca/wallet/mbc1qye84fl6cwuexy0nkje7yv
 
 Script
 ```bat
-sugarmaker -a YespowerSugar -o stratum+tcp://nomp.mofumofu.me:3391 -u sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt.NAMA_KELAS_WA
+sugarmaker -a YespowerSugar -o stratum+tcp://cugeoyom.tech:3333 -u sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt.NAMA_KELAS_WA
 ```
 
 Lihat kehadiran di Pool [SUGAR](https://nomp.mofumofu.me/workers/sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt)  
