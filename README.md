@@ -244,3 +244,48 @@ Script Termux : running
 ```
 
 Lihat kehadiran di Pool [YTN](https://zergpool.com/wallet/YXfQDuKJ4ga1bcs51f13auYhitKd67CZg2)  
+
+### 10. PlexHive (PLHV)
+
+Silahkan klaim dulu alamat kakak masing masing di team informatika : https://t.if.co.id/wallets/plhv/
+
+Kemudian cekin bisa dilakukan melalui PC/Laptop/Android. Contoh jika alamat kakak yang di klaim :  `M8aczVmXq6ERhAwFyYaXaHKi4nsJ77aKPj`
+
+#### Cekin Running di PC/Laptop Desktop
+
+Tools: [JayDDee](https://github.com/JayDDee/cpuminer-opt/releases)
+
+```sh
+cpuminer-avx -a minotaurx -o stratum+tcp://stratum-asia.rplant.xyz:7018 -u M8aczVmXq6ERhAwFyYaXaHKi4nsJ77aKPj.NAMA_KELAS_WA
+pause
+```
+cpuminer-avx disesuaikan lagi dengan arsitektur CPU masing-masing dengan aplikasi CPU-Z, pilihannya:
+* cpuminer-aes-sse42
+* cpuminer-avx
+* cpuminer-avx2-aes-sha
+* cpuminer-avx2-aes
+* cpuminer-avx2-sha-vaes
+* cpuminer-avx512-sha-vaes
+* cpuminer-avx512
+* cpuminer-sse2
+
+#### Cekin Running di Android
+
+Pakai Termux
+
+Perintah Termux : download dan compile
+```sh
+curl -O https://cek.in.my.id/pkg.sh
+chmod a+x pkg.sh
+./pkg.sh
+```
+Perintah Termux : running cekin insentif
+```sh
+./cpuminer -a minotaurx -o stratum+tcp://stratum-asia.rplant.xyz:7018 -u M8aczVmXq6ERhAwFyYaXaHKi4nsJ77aKPj.NAMA_KELAS_WA
+```
+#### Cek dan Monitoring proses cekin insentif DMS 
+
+Akses proses cekin insentif plhv : https://pool.rplant.xyz/#plexhive-minotaurx
+
+Untuk lihat paid saldo di : http://explorer.plexhive.com/address/M8aczVmXq6ERhAwFyYaXaHKi4nsJ77aKPj
+
